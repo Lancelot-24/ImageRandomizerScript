@@ -1,5 +1,5 @@
 # ImageRandomizerScript
-    The following scripts allows you to take a folder of images and do the following tasks:
+    The following script allows you to take a folder of images and do the following tasks:
         - Rename all images, maintaining its current number order
         - Create a new, randomized order for all images, including a new name for every image
     Example:
